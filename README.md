@@ -36,11 +36,26 @@ If you need to pause and resume your scanning process:
 A big thank you to [WanderingPhilosopher] and their [VanBitCrackenS1] for contributing of this project. Your dedication to open source software is truly inspiring.
 
 [(https://github.com/WanderingPhilosopher/VanBitCrakcenS).]
-## Contributing and Feedback
 
-We encourage you to contribute to this project by exploring ways to enhance scanning efficiency, improving UI/UX, and optimizing the scanning algorithms. Feel free to open issues, provide feedback, and collaborate with the community to make this tool even more powerful.
+# Important Notes
 
-Good luck and happy hunting!
+Before you start using the tools in this repository, please take note of the following important considerations to ensure a smooth experience:
+
+1. **File Placement**: The successful operation of these tools is reliant on proper file placement. Please ensure that the following three files are all placed in the same folder:
+
+   - `VanBitCrackenS1.exe`
+   - `588_ranges.exe`
+   - `range.txt`
+
+   Placing these files in separate directories or folders could lead to unexpected errors.
+
+2. **Troubleshooting**: While we have taken care to ensure that these tools function effectively, technology can sometimes be unpredictable. If you encounter any errors, issues, or unexpected behavior, please don't hesitate to reach out.
+
+## Contact and Support
+
+We are dedicated to providing a seamless experience with our tools. If you encounter any difficulties, have questions, or wish to provide feedback, feel free to [open an issue](link-to-issue-page) in this repository. Our team will be glad to assist you.
+
+Your feedback is invaluable in helping us improve the tools and offer a better user experience. Thank you for your collaboration!
 
 ---
 Disclaimer: This software is intended for educational and research purposes only. Please ensure you have appropriate permissions to scan addresses.
